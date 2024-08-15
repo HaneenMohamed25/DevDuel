@@ -1,4 +1,4 @@
-#**Job Recommendation System with AI Chatbot**
+#**Job Recommendation System with AI Chatbot**#
 
 ##**About Us: 5-Girls-2-Outliers Team**
 We are the 5-Girls-2-Outliers Team, proud winners of the DevDuel Competition hosted by IEEE MansCSC. 
@@ -17,6 +17,7 @@ Our team secured the top position in the Data Science track.
 
 ##**Try our App**
 [Job Recommender App](https://devduel-kegejrenhg4qsngw5hxyag.streamlit.app/)
+
 ##**.Future plan**
 We can modify this project so it has the data for all job websites,so in one app
 you can enter your information or qualifications and recommend you companies from data of all job websites and
