@@ -1,11 +1,22 @@
-                Team 5 girls 2 outliers
-All  data for the project of the competation DevDuel for IEEE Mansoura branch. 
-We start from scratch 1-scrapping WUZZUF 2-discover and cleaning data 3-Analysis
-4-making a dashboard 5-modelling 6-making an app by streamlit that take your job title,skills,experence years,city
-and recommend you 5 companies also provided with a chatbot connected to API Gemini that can give you any information about 
-companies or how to prepare for the interview and so on.It has the option to click on one of the recommended companies and
-direct you simultaneously to the chatbot and give you all the history of that company and the pros and cons for
-you to apply to it.Future plan :We can modify this project so it has the data for all job websites,so in one app
+#**Job Recommendation System with AI Chatbot**
+
+##**About Us: 5-Girls-2-Outliers Team**
+We are the 5-Girls-2-Outliers Team, proud winners of the DevDuel Competition hosted by IEEE MansCSC. 
+Our team secured the top position in the Data Science track.
+
+##**Project stages**
+ ###**Stage1:**
+ We start from scratch 1-scrapping WUZZUF 2-discover and cleaning data 3-Analysis and visualization
+4-making a dashboard using Tableau 
+###**Stage2:**
+1-Advanced data preprocessing 2-Machine learning model selection and training
+3-Development of the recommendation algorithm 4-Web application deployment using Streamli
+5-Integration of Gemini API for the AI chatbot functionality
+
+##**Try our App**
+[Job Recommender App](https://devduel-kegejrenhg4qsngw5hxyag.streamlit.app/)
+##**.Future plan**
+We can modify this project so it has the data for all job websites,so in one app
 you can enter your information or qualifications and recommend you companies from data of all job websites and
 we can develop the chatbot to be more professional.
 
