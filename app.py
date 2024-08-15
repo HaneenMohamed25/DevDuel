@@ -43,7 +43,7 @@ def get_recommendations(job_category,skills, experience_level, country, top_n=5)
 
 
 # Gemini AI setup
-GOOGLE_API_KEY = "AIzaSyCEPEXd994vED407jK0d1GwnCWv1H559nc"  # Replace with your actual API key
+GOOGLE_API_KEY = " Replace with your actual API key"  
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 
