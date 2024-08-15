@@ -1,4 +1,4 @@
-#**Job Recommendation System with AI Chatbot**#
+#Job Recommendation System with AI Chatbot
 
 ##**About Us: 5-Girls-2-Outliers Team**
 We are the 5-Girls-2-Outliers Team, proud winners of the DevDuel Competition hosted by IEEE MansCSC. 
