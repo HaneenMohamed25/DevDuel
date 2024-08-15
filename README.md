@@ -7,12 +7,17 @@ Our team secured the top position in the Data Science track.
 ##**Project stages**
 
  ###**Stage1:**
- We start from scratch 1-scrapping WUZZUF 2-discover and cleaning data 3-Analysis and visualization
-4-making a dashboard using Tableau 
+ We start from scratch
+ 1-scrapping WUZZUF 
+ 2-discover and cleaning data
+ 3-Analysis and visualization
+ 4-making a dashboard using Tableau 
 
 ###**Stage2:**
-1-Advanced data preprocessing 2-Machine learning model selection and training
-3-Development of the recommendation algorithm 4-Web application deployment using Streamli
+1-Advanced data preprocessing 
+2-Machine learning model selection and training
+3-Development of the recommendation algorithm
+4-Web application deployment using Streamli
 5-Integration of Gemini API for the AI chatbot functionality
 
 ##**Try our App**
