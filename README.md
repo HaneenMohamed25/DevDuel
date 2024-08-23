@@ -1,4 +1,4 @@
-# **Job Recommendation System with AI Chatbot**
+# `**Job Recommendation System with AI Chatbot**`
 
 ## **About Us: 5-Girls-2-Outliers Team**
 We are the 5-Girls-2-Outliers Team, proud winners of the DevDuel Competition hosted by IEEE MansCSC. 
@@ -25,7 +25,7 @@ Our team secured the top position in the Data Science track.
 
 3-Development of the recommendation algorithm
 
-4-Web application deployment using Streamli
+4-Web application deployment using Streamlit
 
 5-Integration of Gemini API for the AI chatbot functionality
 
